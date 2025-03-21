@@ -1,1 +1,1 @@
-Hi! Welcome to this repo. If you're seeing this, I've already graduated. What you'll find here is a barely organized collection of all the python scripts, sbatch scripts, and jupyter notebooks I used to complete my thesis project. Feel free to look at them! 
+Hi! I'm Juan Irizarry-Cole, PhD. Welcome to this repo. If you're seeing this, I've already graduated. What you'll find here is a barely organized collection of all the python scripts, sbatch scripts, and jupyter notebooks I used to complete my thesis project. Feel free to look at them! 
